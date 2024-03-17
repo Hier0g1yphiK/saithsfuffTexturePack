@@ -1,0 +1,91 @@
+This is where all textures/sounds came from, whether it be mine or anothers' work.
+
+Pride Bees 16x
+https://www.curseforge.com/minecraft/texture-packs/pride-bees
+
+LGBTQ+ Pride Beds
+https://www.planetminecraft.com/texture-pack/lgbtq-pride-beds/
+	Fixed brown/gray bed stripe orientation
+
+Fences+
+https://www.curseforge.com/minecraft/texture-packs/fences/
+	Re-added Nether Brick Fence
+
+Cottagecore Aesthetic Paintings!
+https://www.planetminecraft.com/texture-pack/cottagecore-aesthetic-paintings/
+
+Froggy Hotbar
+https://www.planetminecraft.com/texture-pack/froggy-hotbar/
+
+Rainbow XP Bar
+https://vanillatweaks.net/
+
+Colored Axolotl Buckets With Babies
+https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets-with-babies/
+
+Snowsfuff
+Stefanj2_
+
+Pets [OptiFine]
+https://www.planetminecraft.com/texture-pack/pets-5644493/
+	Added Blue Piggyback Axolotl
+
+Living Dragon
+https://www.curseforge.com/minecraft/texture-packs/living-dragon
+
+Glowing Ender Dragon
+https://www.curseforge.com/minecraft/texture-packs/glowing-ender-dragon
+	Fixed to work with OptiFine
+
+Shrek Warden
+https://www.planetminecraft.com/texture-pack/shrek-warden/
+	Texture only
+	
+Pigeon
+https://www.planetminecraft.com/mob-skin/pigeon-4543630/
+	Any Parrot named "Pigeon"
+
+Penguin
+https://www.planetminecraft.com/texture-pack/penguins-4954845/
+	Any Snow Biome, all others are regular chickens
+
+Strawberries+ [Vanilla]
+https://www.planetminecraft.com/texture-pack/strawberries-5588286/
+	Textures edited to match better with Froggy Hotbar
+
+Moobshrooms [OptiFine]
+https://www.planetminecraft.com/texture-pack/moobshrooms/
+	Models fixed
+	Smaller flowers
+	Happier Cows
+
+Galv's Custom Work
+	Lang
+		Sharty Sharts
+		Sculk Shreker
+		Shrek Warden
+		Saithsfuff Custom Music Pack
+		Named Cottagecore Paintings
+		Cookies
+	Optifine
+		Rainbow Frog
+		Shrek Maiden
+		Bear Pet
+		Purple Axolotl
+	Sound
+		Shrek Warden
+		Saithsfuff Custom Music Pack
+	Block
+		Rainbow Cake
+	Entity
+		Shrek Maiden
+		Sub Badge Frogs
+		Purple Parrots
+	Item
+		Bucket of Snowsfuff
+		Galbiefuff Buckets
+		Custom Elytra
+	Special
+		Cat Ears
+		Custom Saithsfuff Hats
+		Custom Pets Addon
